@@ -1,0 +1,7 @@
+django
+pygments
+djangorestframework
+markdown
+django-filter
+django-crispy-forms
+django-guardian
